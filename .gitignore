@@ -1,2 +1,6 @@
 .DS_Store
 .ipynb_checkpoints
+
+# Ignore files to upload for examples
+*.txt
+*.pdf
